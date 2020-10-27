@@ -27,7 +27,7 @@
   </a>
 </p>
 
-<img src="https://res.cloudinary.com/fsitecnologia/image/upload/v1603769413/ezgif-6-a26fcf35908f_pshj8p.gif" data-canonical-src="https://res.cloudinary.com/fsitecnologia/image/upload/v1603769413/ezgif-6-a26fcf35908f_pshj8p.gif" width="100" />
+<img src="https://res.cloudinary.com/fsitecnologia/image/upload/v1603769413/ezgif-6-a26fcf35908f_pshj8p.gif" data-canonical-src="https://res.cloudinary.com/fsitecnologia/image/upload/v1603769413/ezgif-6-a26fcf35908f_pshj8p.gif" width="230px" />
 
 ## :smiley: About
 
