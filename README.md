@@ -27,8 +27,7 @@
   </a>
 </p>
 
-![App Screenshot](https://res.cloudinary.com/fsitecnologia/image/upload/v1603769413/ezgif-6-a26fcf35908f_pshj8p.gif ){width="100px"}
-
+<img src="https://res.cloudinary.com/fsitecnologia/image/upload/v1603769413/ezgif-6-a26fcf35908f_pshj8p.gif" data-canonical-src="https://res.cloudinary.com/fsitecnologia/image/upload/v1603769413/ezgif-6-a26fcf35908f_pshj8p.gif" width="50" />
 
 ## :smiley: About
 
