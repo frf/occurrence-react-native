@@ -1,5 +1,7 @@
 <h1 align="center">
     Occurrences App's
+
+    list occurrences and show details
 </h1>
 
 <p align="center">
@@ -30,6 +32,7 @@
 <img src="https://res.cloudinary.com/fsitecnologia/image/upload/v1603769413/ezgif-6-a26fcf35908f_pshj8p.gif" data-canonical-src="https://res.cloudinary.com/fsitecnologia/image/upload/v1603769413/ezgif-6-a26fcf35908f_pshj8p.gif" width="230px" />
 
 ## :smiley: About
+list occurrences and show details
 
 ## :computer: Technologies
 This project was developed with the following technologies:
