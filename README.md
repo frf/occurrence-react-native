@@ -19,15 +19,15 @@
   <a href="#frf">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
+<img src="https://res.cloudinary.com/fsitecnologia/image/upload/v1603769396/Screen_Shot_2020-10-27_at_00.12.05_q2d91k.png" data-canonical-src="https://res.cloudinary.com/fsitecnologia/image/upload/v1603769396/Screen_Shot_2020-10-27_at_00.12.05_q2d91k.png" />
 
-![App Screenshot](https://res.cloudinary.com/fsitecnologia/image/upload/v1603769396/Screen_Shot_2020-10-27_at_00.12.05_q2d91k.png)
 <p align="center">
   <a href="https://apps.app2u.co/occurrences" target="_blank">
     <h3 align="center">Demo</h3>
   </a>
 </p>
 
-<img src="https://res.cloudinary.com/fsitecnologia/image/upload/v1603769413/ezgif-6-a26fcf35908f_pshj8p.gif" data-canonical-src="https://res.cloudinary.com/fsitecnologia/image/upload/v1603769413/ezgif-6-a26fcf35908f_pshj8p.gif" width="50" />
+<img src="https://res.cloudinary.com/fsitecnologia/image/upload/v1603769413/ezgif-6-a26fcf35908f_pshj8p.gif" data-canonical-src="https://res.cloudinary.com/fsitecnologia/image/upload/v1603769413/ezgif-6-a26fcf35908f_pshj8p.gif" width="100" />
 
 ## :smiley: About
 
